@@ -505,15 +505,15 @@
           "state" : "Wyoming"
         }
       ],
-      "confFullName" : "Northwest",
+      "confFullName" : "Pacific Northwest Athletic Conference",
       "confPrestige" : "70",
-      "confName" : "North"
+      "confName" : "PNAC"
     },
     {
       "confTeams" : [
         {
-          "abbreviation" : "WIS",
-          "prestige" : "88",
+          "abbreviation" : "USC",
+          "prestige" : "85",
           "hexColor" : "#CACC00",
           "offCoordinator" : {
             "contractLength" : "1",
@@ -543,7 +543,7 @@
             "name" : "Dimitri Tirabassi",
             "contractYear" : "2"
           },
-          "rival" : "IND",
+          "rival" : "UCLA",
           "headCoach" : {
             "contractLength" : "3",
             "startYear" : "2021",
@@ -558,11 +558,11 @@
             "name" : "Jimmy Markway",
             "contractYear" : "0"
           },
-          "name" : "Wisconsin",
-          "state" : "Wisconsin"
+          "name" : "USC",
+          "state" : "California"
         },
         {
-          "abbreviation" : "CLS",
+          "abbreviation" : "UCLA",
           "prestige" : "78",
           "hexColor" : "#39734A",
           "offCoordinator" : {
@@ -593,7 +593,7 @@
             "name" : "Derek Sanborn",
             "contractYear" : "0"
           },
-          "rival" : "FCA",
+          "rival" : "USC",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2021",
@@ -609,12 +609,12 @@
             "name" : "Joel Yslava",
             "contractYear" : "6"
           },
-          "name" : "Colorado Springs",
-          "state" : "Colorado"
+          "name" : "UCLA",
+          "state" : "California"
         },
         {
-          "abbreviation" : "FRE",
-          "prestige" : "89",
+          "abbreviation" : "CAL",
+          "prestige" : "40",
           "hexColor" : "#C0A878",
           "offCoordinator" : {
             "contractLength" : "4",
@@ -644,7 +644,7 @@
             "name" : "Cyrus Hurla",
             "contractYear" : "1"
           },
-          "rival" : "BOI",
+          "rival" : "STAN",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2021",
@@ -660,12 +660,12 @@
             "name" : "Julius Husar",
             "contractYear" : "6"
           },
-          "name" : "Fresno",
+          "name" : "California",
           "state" : "California"
         },
         {
-          "abbreviation" : "RNO",
-          "prestige" : "53",
+          "abbreviation" : "STAN",
+          "prestige" : "70",
           "hexColor" : "#006F53",
           "offCoordinator" : {
             "contractLength" : "1",
@@ -695,7 +695,7 @@
             "name" : "Mo Witaker",
             "contractYear" : "0"
           },
-          "rival" : "PRO",
+          "rival" : "CAL",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2021",
@@ -711,12 +711,12 @@
             "name" : "Darnell Phoenix",
             "contractYear" : "5"
           },
-          "name" : "Reno",
-          "state" : "Nevada"
+          "name" : "Stanford",
+          "state" : "California"
         },
         {
-          "abbreviation" : "BOI",
-          "prestige" : "83",
+          "abbreviation" : "ASU",
+          "prestige" : "70",
           "hexColor" : "#004CC2",
           "offCoordinator" : {
             "contractLength" : "5",
@@ -746,7 +746,7 @@
             "name" : "Marc Keever",
             "contractYear" : "1"
           },
-          "rival" : "FRE",
+          "rival" : "ARIZ",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2021",
@@ -761,12 +761,12 @@
             "name" : "Terrence Squier",
             "contractYear" : "1"
           },
-          "name" : "Boise",
-          "state" : "Idaho"
+          "name" : "Arizona State",
+          "state" : "Arizona"
         },
         {
-          "abbreviation" : "UND",
-          "prestige" : "83",
+          "abbreviation" : "ARIZ",
+          "prestige" : "40",
           "hexColor" : "#00A000",
           "offCoordinator" : {
             "contractLength" : "1",
@@ -796,7 +796,7 @@
             "name" : "Tony Capetl",
             "contractYear" : "2"
           },
-          "rival" : "RVR",
+          "rival" : "ASU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2021",
@@ -812,11 +812,11 @@
             "name" : "Brock Bochenski",
             "contractYear" : "4"
           },
-          "name" : "North Dakota",
-          "state" : "North Dakota"
+          "name" : "Arizona",
+          "state" : "Arizona"
         },
         {
-          "abbreviation" : "PRO",
+          "abbreviation" : "FRES",
           "prestige" : "71",
           "hexColor" : "#008000",
           "offCoordinator" : {
@@ -847,7 +847,7 @@
             "name" : "Donte Harlem",
             "contractYear" : "0"
           },
-          "rival" : "RNO",
+          "rival" : "SJSU",
           "headCoach" : {
             "contractLength" : "3",
             "startYear" : "2021",
@@ -862,11 +862,11 @@
             "name" : "Cedric Creselious",
             "contractYear" : "0"
           },
-          "name" : "Provo",
-          "state" : "Utah"
+          "name" : "Fresno State",
+          "state" : "California"
         },
         {
-          "abbreviation" : "IND",
+          "abbreviation" : "SJSU",
           "prestige" : "45",
           "hexColor" : "#ED1C24",
           "offCoordinator" : {
@@ -897,7 +897,7 @@
             "name" : "Kurt Moellers",
             "contractYear" : "1"
           },
-          "rival" : "WIS",
+          "rival" : "FRES",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2021",
@@ -912,11 +912,11 @@
             "name" : "Greg Trenkle",
             "contractYear" : "1"
           },
-          "name" : "Indiana",
-          "state" : "Indiana"
+          "name" : "San Jose State",
+          "state" : "California"
         },
         {
-          "abbreviation" : "OHI",
+          "abbreviation" : "SDSU",
           "prestige" : "53",
           "hexColor" : "#E22D33",
           "offCoordinator" : {
@@ -947,7 +947,7 @@
             "name" : "Riley Rinauro",
             "contractYear" : "1"
           },
-          "rival" : "MIC",
+          "rival" : "HAW",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2021",
@@ -962,11 +962,11 @@
             "name" : "Albert Ottley",
             "contractYear" : "6"
           },
-          "name" : "Ohio State",
-          "state" : "Ohio"
+          "name" : "San Diego State",
+          "state" : "California"
         },
         {
-          "abbreviation" : "CHI",
+          "abbreviation" : "HAW",
           "prestige" : "59",
           "hexColor" : "#F9783B",
           "offCoordinator" : {
@@ -997,7 +997,7 @@
             "name" : "Tom Bossert",
             "contractYear" : "1"
           },
-          "rival" : "DET",
+          "rival" : "SDSU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2036",
@@ -1012,19 +1012,19 @@
             "name" : "Walter Vanderau",
             "contractYear" : "1"
           },
-          "name" : "Chicago",
-          "state" : "Illinois"
+          "name" : "Hawaii",
+          "state" : "Hawaii"
         }
       ],
-      "confFullName" : "Lakes",
+      "confFullName" : "Pacific Athletic Conference",
       "confPrestige" : "70",
-      "confName" : "LAKES"
+      "confName" : "PAC"
     },
     {
       "confTeams" : [
         {
-          "abbreviation" : "DEL",
-          "prestige" : "89",
+          "abbreviation" : "OKL",
+          "prestige" : "90",
           "hexColor" : "#059033",
           "offCoordinator" : {
             "contractLength" : "1",
@@ -1054,7 +1054,7 @@
             "name" : "Frankie McHardy",
             "contractYear" : "1"
           },
-          "rival" : "RAL",
+          "rival" : "OKST",
           "headCoach" : {
             "contractLength" : "2",
             "startYear" : "2021",
@@ -1070,12 +1070,12 @@
             "name" : "Coby Hampshire",
             "contractYear" : "0"
           },
-          "name" : "Delaware",
-          "state" : "Delaware"
+          "name" : "Oklahoma",
+          "state" : "Oklahoma"
         },
         {
-          "abbreviation" : "DUR",
-          "prestige" : "94",
+          "abbreviation" : "OKST",
+          "prestige" : "80",
           "hexColor" : "#FFBF00",
           "offCoordinator" : {
             "contractLength" : "3",
@@ -1105,7 +1105,7 @@
             "name" : "Hudson Daquino",
             "contractYear" : "0"
           },
-          "rival" : "CHP",
+          "rival" : "OKL",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2021",
@@ -1120,12 +1120,12 @@
             "name" : "Jamire Feggins",
             "contractYear" : "3"
           },
-          "name" : "Durham",
-          "state" : "North Carolina"
+          "name" : "Oklahoma State",
+          "state" : "Oklahoma"
         },
         {
-          "abbreviation" : "MAI",
-          "prestige" : "87",
+          "abbreviation" : "SDSU",
+          "prestige" : "70",
           "hexColor" : "#FFC010",
           "offCoordinator" : {
             "contractLength" : "3",
@@ -1155,7 +1155,7 @@
             "name" : "Dwayne Burandt",
             "contractYear" : "1"
           },
-          "rival" : "PIT",
+          "rival" : "NEB",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2023",
@@ -1170,12 +1170,12 @@
             "name" : "Jeremiah Jokinen",
             "contractYear" : "4"
           },
-          "name" : "Maine",
-          "state" : "Maine"
+          "name" : "South Dakota State",
+          "state" : "South Dakota"
         },
         {
-          "abbreviation" : "MTW",
-          "prestige" : "95",
+          "abbreviation" : "NEB",
+          "prestige" : "80",
           "hexColor" : "#005485",
           "offCoordinator" : {
             "contractLength" : "4",
@@ -1205,7 +1205,7 @@
             "name" : "Devon Forsey",
             "contractYear" : "2"
           },
-          "rival" : "PRO",
+          "rival" : "SDSU",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2021",
@@ -1221,12 +1221,12 @@
             "name" : "Phil Monzo",
             "contractYear" : "0"
           },
-          "name" : "Morgantown",
-          "state" : "West Virginia"
+          "name" : "Nebraska",
+          "state" : "Nebraska"
         },
         {
-          "abbreviation" : "RAL",
-          "prestige" : "65",
+          "abbreviation" : "KAN",
+          "prestige" : "40",
           "hexColor" : "#744143",
           "offCoordinator" : {
             "contractLength" : "4",
@@ -1256,7 +1256,7 @@
             "name" : "Marquez Robirds",
             "contractYear" : "4"
           },
-          "rival" : "DEL",
+          "rival" : "KST",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2023",
@@ -1271,12 +1271,12 @@
             "name" : "CJ Ritzke",
             "contractYear" : "4"
           },
-          "name" : "Raleigh",
-          "state" : "North Carolina"
+          "name" : "Kansas",
+          "state" : "Kansas"
         },
         {
-          "abbreviation" : "APT",
-          "prestige" : "87",
+          "abbreviation" : "KST",
+          "prestige" : "70",
           "hexColor" : "#FE3300",
           "offCoordinator" : {
             "contractLength" : "2",
@@ -1306,7 +1306,7 @@
             "name" : "Johnnie Grazioplene",
             "contractYear" : "1"
           },
-          "rival" : "VRG",
+          "rival" : "KAN",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2021",
@@ -1321,12 +1321,12 @@
             "name" : "Douglas Crouthamel",
             "contractYear" : "3"
           },
-          "name" : "Appalachian Tech",
-          "state" : "Virginia"
+          "name" : "Kansas State",
+          "state" : "Kansas"
         },
         {
-          "abbreviation" : "CHP",
-          "prestige" : "73",
+          "abbreviation" : "CO",
+          "prestige" : "50",
           "hexColor" : "#964B00",
           "offCoordinator" : {
             "contractLength" : "1",
@@ -1356,7 +1356,7 @@
             "name" : "Donta Ragar",
             "contractYear" : "1"
           },
-          "rival" : "DUR",
+          "rival" : "CSU",
           "headCoach" : {
             "contractLength" : "2",
             "startYear" : "2021",
@@ -1372,12 +1372,12 @@
             "name" : "Todd Milroy",
             "contractYear" : "2"
           },
-          "name" : "Chapel Hill",
-          "state" : "North Carolina"
+          "name" : "Colorado",
+          "state" : "Colorado"
         },
         {
-          "abbreviation" : "HRS",
-          "prestige" : "78",
+          "abbreviation" : "CSU",
+          "prestige" : "25",
           "hexColor" : "#00A26B",
           "offCoordinator" : {
             "contractLength" : "2",
@@ -1407,7 +1407,7 @@
             "name" : "JC Burum",
             "contractYear" : "2"
           },
-          "rival" : "NJS",
+          "rival" : "CO",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2021",
@@ -1422,12 +1422,12 @@
             "name" : "Donald Ebbert",
             "contractYear" : "2"
           },
-          "name" : "Harrisburg",
-          "state" : "Pennsylvania"
+          "name" : "Colorado State",
+          "state" : "Colorado"
         },
         {
-          "abbreviation" : "WDC",
-          "prestige" : "57",
+          "abbreviation" : "NM",
+          "prestige" : "25",
           "hexColor" : "#6B3FA0",
           "offCoordinator" : {
             "contractLength" : "5",
@@ -1457,7 +1457,7 @@
             "name" : "Jonathan Dix",
             "contractYear" : "1"
           },
-          "rival" : "MAR",
+          "rival" : "TUL",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2022",
@@ -1472,12 +1472,12 @@
             "name" : "Booker Zoutte",
             "contractYear" : "4"
           },
-          "name" : "Washington DC",
-          "state" : "District of Columbia"
+          "name" : "New Mexico",
+          "state" : "New Mexico"
         },
         {
-          "abbreviation" : "RND",
-          "prestige" : "72",
+          "abbreviation" : "Tulsa",
+          "prestige" : "63",
           "hexColor" : "#FCBB0D",
           "offCoordinator" : {
             "contractLength" : "1",
@@ -1507,7 +1507,7 @@
             "name" : "Richard Scobie",
             "contractYear" : "1"
           },
-          "rival" : "MTW",
+          "rival" : "NM",
           "headCoach" : {
             "contractLength" : "2",
             "startYear" : "2024",
@@ -1522,13 +1522,13 @@
             "name" : "BJ Singleton",
             "contractYear" : "1"
           },
-          "name" : "Rand",
-          "state" : "West Virginia"
+          "name" : "Tulsa",
+          "state" : "Oklahoma"
         }
       ],
-      "confFullName" : "North",
-      "confPrestige" : "79",
-      "confName" : "NORTH"
+      "confFullName" : "Midwest Athletic Conference",
+      "confPrestige" : "70",
+      "confName" : "MWAC"
     },
     {
       "confTeams" : [
