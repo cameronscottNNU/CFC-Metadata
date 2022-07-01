@@ -3,21 +3,21 @@
     {
       "confTeams" : [
         {
-          "abbreviation" : "BST",
-          "prestige" : "94",
+          "abbreviation" : "ORE",
+          "prestige" : "85",
           "hexColor" : "#115F9A",
           "offCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
+            "contractLength" : "4",
+            "startYear" : "2022",
             "age" : "55",
-            "cumulativePrestige" : "-5",
+            "cumulativePrestige" : "0",
             "homeState" : "Delaware",
             "ratPot" : "57",
             "hometown" : "Fenwick Island",
             "ratTalent" : "90",
             "baselinePrestige" : "93",
             "coachingAbility" : "90",
-            "name" : "Dawson Golightly",
+            "name" : "Kenny Dillngham",
             "contractYear" : "0"
           },
           "defCoordinator" : {
@@ -34,7 +34,7 @@
             "name" : "Simon Danison",
             "contractYear" : "0"
           },
-          "rival" : "VAL",
+          "rival" : "ORST",
           "headCoach" : {
             "contractLength" : "2",
             "startYear" : "2021",
@@ -50,12 +50,12 @@
             "name" : "Marcelino Fret",
             "contractYear" : "1"
           },
-          "name" : "Boone St",
-          "state" : "North Carolina"
+          "name" : "Oregon",
+          "state" : "Oregon"
         },
         {
-          "abbreviation" : "FLA",
-          "prestige" : "83",
+          "abbreviation" : "ORST",
+          "prestige" : "70",
           "hexColor" : "#007550",
           "offCoordinator" : {
             "contractLength" : "2",
@@ -85,7 +85,7 @@
             "name" : "Jarvis Gentelia",
             "contractYear" : "0"
           },
-          "rival" : "TEN",
+          "rival" : "ORE",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2021",
@@ -100,12 +100,12 @@
             "name" : "Duke Engen",
             "contractYear" : "2"
           },
-          "name" : "Florida",
-          "state" : "Florida"
+          "name" : "Oregon State",
+          "state" : "Oregon"
         },
         {
-          "abbreviation" : "ALA",
-          "prestige" : "92",
+          "abbreviation" : "WASH",
+          "prestige" : "75",
           "hexColor" : "#9B8348",
           "offCoordinator" : {
             "contractLength" : "4",
@@ -135,7 +135,7 @@
             "name" : "Paul Poisso",
             "contractYear" : "2"
           },
-          "rival" : "ATH",
+          "rival" : "WSU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2023",
@@ -150,8 +150,8 @@
             "name" : "Roosevelt Callo",
             "contractYear" : "5"
           },
-          "name" : "Alabama",
-          "state" : "Alabama"
+          "name" : "Washington",
+          "state" : "Washington"
         },
         {
           "abbreviation" : "KYW",
