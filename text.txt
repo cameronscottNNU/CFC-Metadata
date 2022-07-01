@@ -154,8 +154,8 @@
           "state" : "Washington"
         },
         {
-          "abbreviation" : "KYW",
-          "prestige" : "95",
+          "abbreviation" : "WSU",
+          "prestige" : "65",
           "hexColor" : "#00A26B",
           "offCoordinator" : {
             "contractLength" : "2",
@@ -185,7 +185,7 @@
             "name" : "Wardell Perlmutter",
             "contractYear" : "0"
           },
-          "rival" : "ATL",
+          "rival" : "WASH",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2024",
@@ -200,12 +200,12 @@
             "name" : "Jeremiah Wanca",
             "contractYear" : "1"
           },
-          "name" : "Key West",
-          "state" : "Florida"
+          "name" : "Washington State",
+          "state" : "Washington"
         },
         {
-          "abbreviation" : "CAR",
-          "prestige" : "79",
+          "abbreviation" : "BOI",
+          "prestige" : "70",
           "hexColor" : "#964B00",
           "offCoordinator" : {
             "contractLength" : "3",
@@ -235,7 +235,7 @@
             "name" : "Ryan Dobrushin",
             "contractYear" : "1"
           },
-          "rival" : "BOC",
+          "rival" : "WYO",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2025",
@@ -250,11 +250,11 @@
             "name" : "Jaylon Dolinger",
             "contractYear" : "1"
           },
-          "name" : "Carolina",
-          "state" : "South Carolina"
+          "name" : "Boise State",
+          "state" : "Idaho"
         },
         {
-          "abbreviation" : "LTR",
+          "abbreviation" : "NEV",
           "prestige" : "45",
           "hexColor" : "#FFCC66",
           "offCoordinator" : {
@@ -285,7 +285,7 @@
             "name" : "Ross Pitney",
             "contractYear" : "2"
           },
-          "rival" : "ARL",
+          "rival" : "UNLV",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2021",
@@ -300,12 +300,12 @@
             "name" : "Shedrick Hemming",
             "contractYear" : "4"
           },
-          "name" : "Little Rock",
-          "state" : "Arkansas"
+          "name" : "Nevada",
+          "state" : "Nevada"
         },
         {
-          "abbreviation" : "ARK",
-          "prestige" : "82",
+          "abbreviation" : "UNLV",
+          "prestige" : "60",
           "hexColor" : "#008568",
           "offCoordinator" : {
             "contractLength" : "2",
@@ -335,7 +335,7 @@
             "name" : "TK Birdette",
             "contractYear" : "2"
           },
-          "rival" : "KTY",
+          "rival" : "NEV",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2021",
@@ -351,12 +351,12 @@
             "name" : "Reggie Mojzisik",
             "contractYear" : "2"
           },
-          "name" : "Arkansas",
-          "state" : "Arkansas"
+          "name" : "UNLV",
+          "state" : "Nevada"
         },
         {
-          "abbreviation" : "ATL",
-          "prestige" : "62",
+          "abbreviation" : "UTAH",
+          "prestige" : "85",
           "hexColor" : "#FAC417",
           "offCoordinator" : {
             "contractLength" : "4",
@@ -386,7 +386,7 @@
             "name" : "Darren McPeek",
             "contractYear" : "0"
           },
-          "rival" : "KYW",
+          "rival" : "BYU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2025",
@@ -401,12 +401,12 @@
             "name" : "Darrin Guesman",
             "contractYear" : "1"
           },
-          "name" : "Atlanta",
-          "state" : "Georgia"
+          "name" : "UTAH",
+          "state" : "UTAH"
         },
         {
-          "abbreviation" : "TEN",
-          "prestige" : "45",
+          "abbreviation" : "BYU",
+          "prestige" : "80",
           "hexColor" : "#FFCC00",
           "offCoordinator" : {
             "contractLength" : "2",
@@ -436,7 +436,7 @@
             "name" : "Jalen Eastling",
             "contractYear" : "1"
           },
-          "rival" : "FLA",
+          "rival" : "UTAH",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2023",
@@ -451,12 +451,12 @@
             "name" : "Donald Berks",
             "contractYear" : "4"
           },
-          "name" : "Tennessee",
-          "state" : "Tennessee"
+          "name" : "BYU",
+          "state" : "UTAH"
         },
         {
-          "abbreviation" : "LAF",
-          "prestige" : "67",
+          "abbreviation" : "WYO",
+          "prestige" : "60",
           "hexColor" : "#EBEBE4",
           "offCoordinator" : {
             "contractLength" : "4",
@@ -486,7 +486,7 @@
             "name" : "Jay Chanthaumlsa",
             "contractYear" : "3"
           },
-          "rival" : "MRE",
+          "rival" : "BOI",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2029",
@@ -501,13 +501,13 @@
             "name" : "Bryson McManigal",
             "contractYear" : "1"
           },
-          "name" : "Lafayette",
-          "state" : "Louisiana"
+          "name" : "Wyoming",
+          "state" : "Wyoming"
         }
       ],
-      "confFullName" : "Southern",
-      "confPrestige" : "74",
-      "confName" : "SOUTH"
+      "confFullName" : "Northwest",
+      "confPrestige" : "70",
+      "confName" : "North"
     },
     {
       "confTeams" : [
